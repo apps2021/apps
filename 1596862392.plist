@@ -13,10 +13,10 @@
 	<key>appLockInApp</key>
 	<false/>
 	<key>appHaveNewApp</key>
-	<false/>
+	<true/>
 	<key>appMessageNewApp</key>
 	<string>Please update to the new version, for the best experience.</string>
 	<key>appURLNewApp</key>
-	<string>https://apps.apple.com/app/id1232058109</string>
+	<string>https://apps.apple.com/app/id1611474559</string>
 </dict>
 </plist>
