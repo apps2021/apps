@@ -13,7 +13,7 @@
 	<key>appLockInApp</key>
 	<false/>
 	<key>appHaveNewApp</key>
-	<true/>
+	<false/>
 	<key>appMessageNewApp</key>
 	<string>Please update to the new version, for the best experience.</string>
 	<key>appURLNewApp</key>
